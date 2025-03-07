@@ -1,4 +1,10 @@
 # Pseudo Make Me Key Cap Profile
+## Fork with user friendly adjusting parameters. No need to change code to export needed model. No need to search what keyID is what key.
+![DES Customizer](https://raw.githubusercontent.com/bulkh/PseudoMakeMeKeyCapProfiles/master/Photo/DES_Customizer.jpg)
+![DES keycaps list](https://raw.githubusercontent.com/bulkh/PseudoMakeMeKeyCapProfiles/master/Photo/DES_keycaps_list.jpg) ![DES thumbs customizer](https://raw.githubusercontent.com/bulkh/PseudoMakeMeKeyCapProfiles/master/Photo/DES_thumbs_customizer.jpg) 
+
+I've only added it to files MX_DES_Standard and MX_DES_Thumb.
+Also i've made a folder with STL files i made for myself.
 
 ## How to
 * make sure OpenSCAD is up to date.
